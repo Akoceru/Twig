@@ -1,0 +1,16 @@
+{
+    "name": "akoceru/twig",
+    "description": "My first twig engine template!",
+    "require": {
+        "twig/twig": "~1.0",
+        "cocur/slugify": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Axel Denhaut",
+            "email": "axl.78@hotmail.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
